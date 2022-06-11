@@ -1,2 +1,3 @@
 # basic websites
- temp
+ 
+Small site projects developed with basic technologies and without frameworks
