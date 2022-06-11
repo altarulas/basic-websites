@@ -1,3 +1,3 @@
 # basic websites
  
-Small site projects developed with basic technologies and without frameworks
+Small website projects developed with basic technologies without using frameworks.
