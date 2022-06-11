@@ -1,0 +1,56 @@
+/* Utilities */
+
+/* Generals */
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.7em;
+}
+
+a {
+    color: #333;
+    text-decoration: none;
+}
+
+h1, h2, h3 {
+    padding-bottom: 20px;
+}
+
+p {
+    margin: 10px 0;
+}
+
+/* Clear Float */
+
+.clear {
+    clear: both;
+}
+
+/* Texts */
+
+.text-primary {
+    color: #f7c08a;
+}
+
+/* Buttons */
+
+.btn {
+    color: #f7c08a;
+    background: #141010;
+    display: inline-block;
+    padding: 20px;
+    border-radius: 5px;
+    font-size: 18px;
+}
+
+.btn-light {
+    background: #f4f4f4;
+    color: #141010;
+}
+
+.btn:hover {
+    background: #555;
+    color: #f7c08a;
+}
+
+
